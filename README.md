@@ -1,6 +1,7 @@
 # Num2Fa
 
 [![PyPI releases](https://img.shields.io/pypi/v/num2fa?logo=python&logoColor=white)](https://pypi.python.org/pypi/num2fa)
+[![PyPI Downloads](https://static.pepy.tech/badge/num2fa)](https://pepy.tech/projects/num2fa)
 [![MIT License](https://img.shields.io/github/license/codewithemad/num2fa.svg?style=flat-square)](https://opensource.org/license/agpl-v3/)
 
 `num2fa` is a versatile solution that enables the conversion of numbers (integers, floats, decimals, fractions, or strings) into their corresponding number or word form in Persian.
